@@ -17,8 +17,8 @@ Welcome to the JSON Markdown Tool repository! This open-source React application
 </div>
 <div  align="center">
 
-[![Release Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fjson-markdown-tool%2Fmain%2Fpackage.json&query=releasedDate&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=release%20date&labelColor=%2308090E&color=%23F19A81)](https://github.com/zaheralmajed/json-markdown-tool/releases/tag/1.0.3)
-[![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fjson-markdown-tool%2Fmain%2Fpackage.json&query=%24.version&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=version&labelColor=%2308090E&color=%238BE3EB)](https://github.com/zaheralmajed/json-markdown-tool/releases/tag/1.0.3)
+[![Release Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fjson-markdown-tool%2Fmain%2Fpackage.json&query=releasedDate&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=release%20date&labelColor=%2308090E&color=%23F19A81)](https://github.com/zaheralmajed/json-markdown-tool/releases/tag/1.0.0)
+[![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fjson-markdown-tool%2Fmain%2Fpackage.json&query=%24.version&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=version&labelColor=%2308090E&color=%238BE3EB)](https://github.com/zaheralmajed/json-markdown-tool/releases/tag/1.0.0)
 [![license](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fjson-markdown-tool%2Fmain%2Fpackage.json&query=license&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=license&labelColor=%2308090E&color=%23BCF181)](https://github.com/zaheralmajed/json-markdown-tool/blob/main/LICENSE)
 
 </div>
