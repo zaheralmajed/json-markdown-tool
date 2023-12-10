@@ -57,7 +57,7 @@ To convert from JSON to Markdown, follow these steps:
 
 1. Download the repository from GitHub by clicking on the `Clone or download` button and selecting the desired method.
 
-2. Provide your JSON data that you want to convert by editing `conversion -> jsonmd -> json-to-convert.tsx`.
+2. Provide your JSON data that you want to convert by editing `conversion -> jsonmd -> json-to-convert.tsx`, and apply the data structure in `pages -> api -> jsonmd.tsx`.
 
 3. Open a terminal or command prompt and navigate to the downloaded repository directory.
 
